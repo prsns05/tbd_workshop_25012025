@@ -16,7 +16,7 @@ def diff(num1: int, num2: int) -> None:
 
 # Member C: edit this function.
 def mul(num1: int, num2: int) -> None:
-    # Edit code under this line
-
+    # Edit code under this line (No C lololololol)
+    res = num1 * num 2
     print(num1, "*", num2, "is", res)
     pass
